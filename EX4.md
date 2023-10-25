@@ -12,8 +12,8 @@
 
 ### Program:
 ```
-DEVELOPED BY:JANANI.S
-REG NO:212222230049
+DEVELOPED BY: T S YAMUNAASRI
+REG NO:212222240117
 
 SQL> create table employee( empid number,empname varchar(10),dept varchar(10),salary number);
 
