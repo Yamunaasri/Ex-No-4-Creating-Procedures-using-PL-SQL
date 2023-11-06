@@ -1,6 +1,11 @@
 # Ex. No: 4 Creating Procedures using PL/SQL
-
-### AIM: To create a procedure using PL/SQL.
+### DATE: 05.09.2023
+```
+DEVELOPED BY: YAMUNAASRI
+REG NO: 212222240117
+```
+### AIM: 
+To create a procedure using PL/SQL.
 
 ### Steps:
 1. Create employee table with following attributes (empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
